@@ -98,6 +98,7 @@ dkms.conf
 .idea/**/libraries
 
 # CMake
+CMakeCache.txt
 cmake-build-debug/
 
 # Mongo Explorer plugin:
